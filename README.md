@@ -36,7 +36,7 @@ My brain of course. I'm just kidding, the name 'RFOS' actually came from its com
 Contact me via E-mail that's provided on my profile
 
 ## For the developers who found this
-~~PLEASE FORK MY REPO AND FIX THE DS1302 PROBLEM AND I'LL MERGE IT IMMEDIATELY~~ 
+Feel free to fork this repository and place it on a new branch (~~Please fix the DS1302 incompatibility issue~~) 
 
 ## For the person I sent here
 I'll send you the custom HTML file with your own personalized touches 
