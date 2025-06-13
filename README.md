@@ -4,7 +4,7 @@ A predecessor of <a href=https://github.com/Shimoe-Koharu16/TagSyncNode>TagSyncN
 ## Introduction of RFOS-V2
 
 ### Why is this made?
-This repository is specially made for a local server that I made for my former high school (Kinatakutan National High School) ICT head/administrator (To keep her job easy and not to go 1-by-1 PCs whenever a worksheet is to be submitted or give out) to still be able to receive updates for the server remotely since I transferred to another school for the strand I'm suitable for (~~and also, to avoid more encounters with Ashley Nicole for my own sanity and well-being... you can read this? good not good~~). Actually this repository shouldn't be even up here in public since they paid me for this 
+This repository is specially made for a local server that I made for my former high school (Kinatakutan National High School) ICT head/administrator (To keep her job easy and not to go 1-by-1 PCs whenever a worksheet is to be submitted or given out) to still be able to receive updates for the server remotely since I transferred to another school for the strand I'm suitable for (~~and also, to avoid more encounters with Ashley Nicole for my own sanity and well-being... you can read this? good not good~~). Actually this repository shouldn't be even up here in public since they paid me for this 
 
 ### Why did you made this public even tho they paid you for this?
 Good question, they just actually paid for ONLY the hardware of the TagSyncNode repository and that hardware also supports RFOS V2 but soon might be unsupported by the time RFOS V3 drops. I won't post this repository in public mode if they paid me for the hardware + software + frontend + backend or logic of this repository.
