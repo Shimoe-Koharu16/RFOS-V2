@@ -25,6 +25,9 @@ My brain of course. I'm just kidding, the name 'RFOS' actually came from its com
   ### Renaming the RFID cards for its attendance 
  Using the Serial 'Send a message to ESP32 on COM X' and there you type the name of the card holder, they can be overwritten. There's two options for this, if you want separate FIRST_NAME and LAST_NAME, use a comma (,) to separate the names since this records attendance in CSV (Comma Separated Values) file format on /attendance subfolder (E.X: FIRST_NAME,LAST_NAME)
 
+ ### Updating the server with the LTS RLS
+ If you already flashed the baseplate (the RFOS_V2.ino with Settings.h) in the ESP32 your server uses, just visit fileserver.local/update and put the LTS RLS binary of this server to the "Upload .bin file" box of the interface, and if the update finished successfully. Please restart your server by unplugging the power source and plug it back in if it doesn't show the screen that says **Update Complete** after a minute.
+
 ## Folder setup
   Don't think about this too much, just put the HTML with inline CSS and JS I provided on the src folder on root of your SD card on FAT32 filesystem since the ESP32 sketch will auto-generate the required folders. For wallpaper support, just name the .png or .jpg image into wallpaper.png. Favicons are also supported, just name it icon.png and for the cursor design, name the file into cur.png (NOTE: What dimensions of the .png you place WILL appear AS IS on the WebUI, therefore, I recommend you to downsize the desired cursor image/design into 64x64 to 32x32 px only)
 
