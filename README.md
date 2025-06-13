@@ -25,7 +25,7 @@ My brain of course. I'm just kidding, the name 'RFOS' actually came from its com
   ### Renaming the RFID cards for its attendance 
  Using the Serial 'Send a message to ESP32 on COM X' and there you type the name of the card holder, they can be overwritten. There's two options for this, if you want separate FIRST_NAME and LAST_NAME, use a comma (,) to separate the names since this records attendance in CSV (Comma Separated Values) file format on /attendance subfolder (E.X: FIRST_NAME,LAST_NAME)
 
- ### Updating the server with the LTS RLS
+ ### Updating the Server with the Latest Releases
  If you already flashed the baseplate (the RFOS_V2.ino with Settings.h) in the ESP32 your server uses, just visit fileserver.local/update and put the LTS RLS binary of this server to the "Upload .bin file" box of the interface, and if the update finished successfully. Please restart your server by unplugging the power source and plug it back in if it doesn't show the screen that says **Update Complete** after a minute.
 
 ## Folder setup
