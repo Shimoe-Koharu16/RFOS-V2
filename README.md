@@ -1,5 +1,5 @@
 # RFOS-V2
-A predecessor of <a href=https://github.com/Shimoe-Koharu16/TagSyncNode>TagSyncNode</a>. RFOS V2 now has toast notifications, alert() and OTA updates via PrettyOTA. A feature was deprecated temporarily and will be soon added back
+A predecessor of <a href=https://github.com/Shimoe-Koharu16/TagSyncNode>TagSyncNode</a>. RFOS V2 now has toast notifications, alert() and OTA updates via ~~PrettyOTA~~ ElegantOTA. A feature was deprecated temporarily and will be soon added back
 
 ## Introduction of RFOS-V2
 
